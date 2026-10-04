@@ -13,6 +13,7 @@
     "@supabase/server": "github:supabase/server",
     "body-parser": "^2.3.0",
     "cors": "^2.8.6",
+    "dotenv": "^18.0.5",
     "express": "^5.2.1",
     "supabase": "^2.118.0",
     "supabase-js": "^0.0.1-security"
